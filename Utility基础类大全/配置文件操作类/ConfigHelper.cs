@@ -1,7 +1,8 @@
+ 
 using System;
 using System.Configuration;
 
-namespace Utilities
+namespace Common.Utility
 {
 	/// <summary>
 	/// web.config²Ù×÷Àà
